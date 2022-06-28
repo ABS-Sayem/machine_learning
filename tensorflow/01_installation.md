@@ -3,3 +3,7 @@
 
 #### GPU Support
 ###### **If you have GPU in your PC, Follow *"https://www.tensorflow.org/install/gpu"***
+
+#### Verification
+> import tensorflow as tf
+> tf.__version__
