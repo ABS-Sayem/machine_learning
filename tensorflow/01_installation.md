@@ -5,6 +5,6 @@
 ###### **If you have GPU in your PC, Follow *"https://www.tensorflow.org/install/gpu"***
 
 #### Verification
-> import tensorflow as tf
+    import tensorflow as tf
 
-> print(tf.__version__)
+    print(tf.__version__)
