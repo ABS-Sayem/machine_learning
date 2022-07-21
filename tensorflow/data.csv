@@ -1,7 +1,7 @@
 ﻿Std_Id,Attendance,Class_Test,Mid,Final,Type
 LR01,8,8,20,40,Regular
-LR02,9,7,19,32,Re-Admit
-LR03,9,9,26,27,Re-Admit
+LR02,9,7,19,32,Re_Admit
+LR03,9,9,26,27,Re_Admit
 LR04,5,8,27,42,Regular
 LR05,7,5,24,37,Regular
 LR06,8,5,19,38,Regular
@@ -13,7 +13,7 @@ LR11,8,9,20,40,Regular
 LR12,5,8,19,32,Regular
 LR13,7,8,26,27,Regular
 LR14,7,7,27,42,Regular
-LR15,6,9,24,37,Re-Admit
+LR15,6,9,24,37,Re_Admit
 LR16,8,8,19,40,Regular
 LR17,9,5,20,44,Regular
 LR18,9,7,19,33,Regular
@@ -27,11 +27,11 @@ LR25,7,8,27,27,Regular
 LR26,8,7,24,42,Regular
 LR27,5,9,19,37,Regular
 LR28,7,8,20,40,Regular
-LR29,7,5,19,40,Re-Admit
+LR29,7,5,19,40,Re_Admit
 LR30,8,5,27,40,Regular
 LR31,5,5,22,33,Regular
 LR32,7,9,24,30,Regular
-LR33,7,10,19,27,Re-Admit
+LR33,7,10,19,27,Re_Admit
 LR34,8,8,20,42,Regular
 LR35,9,7,20,37,Regular
 LR36,9,9,19,40,Regular
@@ -46,7 +46,7 @@ LR44,8,5,22,27,Regular
 LR45,5,5,19,40,Regular
 LR46,7,5,26,33,Regular
 LR47,7,9,27,30,Regular
-LR48,8,10,24,40,Re-Admit
+LR48,8,10,24,40,Re_Admit
 LR49,5,8,19,33,Regular
 LR50,7,6,20,30,Regular
 LR51,7,8,19,39,Regular
@@ -89,7 +89,7 @@ LR87,8,7,20,32,Regular
 LR88,5,9,19,27,Regular
 LR89,7,8,27,42,Regular
 LR90,7,5,22,37,Regular
-LR91,8,5,20,40,Re-Admit
+LR91,8,5,20,40,Re_Admit
 LR92,9,5,19,40,Regular
 LR93,9,9,26,33,Regular
 LR94,8,10,27,30,Regular
