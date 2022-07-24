@@ -47,8 +47,8 @@ LR45,5,5,23,40,Regular
 LR46,7,5,26,33,Regular
 LR47,7,9,27,30,Regular
 LR48,8,10,24,40,Re_Admit
-LR49,5,8,19,33,Regular
-LR50,7,6,20,30,Regular
+LR49,5,8,13,33,Regular
+LR50,7,6,15,30,Regular
 LR51,7,8,29,39,Regular
 LR52,9,5,20,40,Regular
 LR53,9,8,19,33,Regular
@@ -74,9 +74,9 @@ LR72,7,9,19,40,Regular
 LR73,8,10,26,33,Regular
 LR74,5,8,27,30,Regular
 LR75,7,5,24,39,Regular
-LR76,7,10,19,40,Regular
+LR76,7,10,28,40,Regular
 LR77,8,7,20,32,Regular
-LR78,9,9,19,27,Regular
+LR78,9,9,28,27,Regular
 LR79,9,8,27,42,Regular
 LR80,5,5,22,37,Regular
 LR81,7,6,21,40,Regular
@@ -85,9 +85,9 @@ LR83,8,9,26,33,Regular
 LR84,5,8,27,30,Regular
 LR85,7,5,24,39,Regular
 LR86,7,8,19,40,Regular
-LR87,8,7,20,32,Regular
+LR87,8,7,16,32,Regular
 LR88,5,9,19,27,Regular
-LR89,7,8,27,42,Regular
+LR89,7,8,15,42,Regular
 LR90,7,5,22,37,Regular
 LR91,8,5,20,40,Re_Admit
 LR92,9,5,19,40,Regular
@@ -95,7 +95,7 @@ LR93,9,9,16,33,Regular
 LR94,8,10,27,30,Regular
 LR95,7,8,13,37,Regular
 LR96,8,5,19,40,Regular
-LR97,8,5,20,40,Regular
+LR97,8,5,15,40,Regular
 LR98,5,9,19,33,Regular
 LR99,7,10,17,30,Regular
 LR100,7,8,22,39,Regular
