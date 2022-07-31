@@ -5,8 +5,7 @@
 > * **Tensorflow**
 
 #### **ML_Projects:**
-* **Alexnet Architecture:** Implement popular Alexnet architecture. 
-> Details here - *https://github.com/abs-sayem/machine_learning/blob/main/ml_projects/alexnet_architecture.ipynb*
+* **Alexnet Architecture:** *https://github.com/abs-sayem/machine_learning/blob/main/ml_projects/alexnet_architecture.ipynb*
 * **Article Recommendation System:** Recommend article based on the content of the article user already read. (https://github.com/abs-sayem/machine_learning/blob/main/ml_projects/article_recommendation_system.ipynb)
 * **Classify using Neural Network:** Build a Neural Network to classify popular MNIST Fashion Dataset. (https://github.com/abs-sayem/machine_learning/blob/main/ml_projects/classification_with_neural_network.ipynb)
 * **Cryptocurrency Price Prediction:** Predict the next 30 days price using AutoTS. (https://github.com/abs-sayem/machine_learning/blob/main/ml_projects/cryptocurrency_price_prediction.ipynb)
