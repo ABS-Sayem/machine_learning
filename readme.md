@@ -1,8 +1,8 @@
 ### **Machine Learning**
 
 #### **Table of Contents**
-* ##### **ML Projects**
-* ##### **Tensorflow**
+> * ##### **ML Projects**
+> * ##### **Tensorflow**
 
 #### **ML_Projects:**
 * **Alexnet Architecture:** Implement popular Alexnet architecture.
