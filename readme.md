@@ -1,7 +1,10 @@
 ### **Machine Learning**
 
 #### **Table of Contents**
-##### **ML_Projects: Implement various Machine Larning projects, like-**
+* **ML Projects**
+* **Tensorflow**
+#### **ML_Projects:** **Implement various Machine Larning projects, like---**
+**----------------------------------------------------------------------**
 * **Alexnet Architecture:** Implement popular Alexnet architecture.
 * **Article Recommendation System:** Recommend article based on the content of the article user already read.
 * **Classify using Neural Network:** Build a Neural Network to classify popular MNIST Fashion Dataset.
