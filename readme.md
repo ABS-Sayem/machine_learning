@@ -1,2 +1,2 @@
 ### **Machine Learning**
-[ML Tale](ML_Tale.pdf)
+[ML Tale](ml_tale.jpg)
