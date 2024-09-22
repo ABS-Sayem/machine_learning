@@ -1,4 +1,4 @@
-01. What is Logistic Regression? Difference between logistic and linear regression? Why we can’t do a classification problem using Regression?
+01. What is Logistic Regression? Difference between logistic and linear regression? Why we can’t solve a classification problem using Regression?
 02. Why Support Vector Regression? Difference between SVR and a simple regression model?
 * OLS Stats Model (Ordinary Least Square)
 * What is L1 Regularization (L1 = lasso), L2 Regularization (L2 = Ridge Regression)?
